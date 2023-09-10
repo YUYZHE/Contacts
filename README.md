@@ -186,4 +186,6 @@ int main()
 
 **3、 未解决警告：**
 
+![img](https://github.com/YUYZHE/Contacts/blob/master/Snipaste_2023-09-10_20-52-44.png?raw=true)
+
 ![image-20230910203948369](C:/Users/YU/AppData/Roaming/Typora/typora-user-images/image-20230910203948369.png)
