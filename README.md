@@ -184,6 +184,6 @@ int main()
 
 **2、 自定义了可扩容数组**
 
-**3、 为解决警告：**
+**3、 未解决警告：**
 
 ![image-20230910203948369](C:/Users/YU/AppData/Roaming/Typora/typora-user-images/image-20230910203948369.png)
